@@ -1,0 +1,28 @@
+{
+  "station_names": {
+	"BALB": "BALIKESİR",
+	"BNN": "BÜNYAN - KAYSERİ",
+	"BZK": "BOZKURT - KASTAMONU",
+    "DKL": "DİKİLİ - İZMİR",
+    "ELL": "ELMALI - ANTALYA",
+    "GAZ": "Şehitkamil - Gaziantep",
+    "GUR": "GÜROYMAK - BİTLİS",
+    "KARS": "KARS",
+    "MDUB": "MUDURNU - BOLU",
+	"SIRT": "ŞIRNAK",
+	"SNOP": "SİNOP"
+  },
+    "station_codes": [
+    "BALB",
+    "BNN",
+    "BZK",
+    "DKL",
+    "ELL",
+    "GAZ",
+    "GUR",
+    "KARS",
+    "MDUB",
+    "SIRT",
+	"SNOP"
+	]
+}
